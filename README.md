@@ -219,3 +219,7 @@ The agent documentation is [make.fun/skill.md](https://make.fun/skill.md); devel
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=vmr0yn93&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+
+## Changelog
+
+- v1.1 — clarified the keypair scope table (enter + comment vs betting), fixed the badge URLs, expanded the escrow-claim walkthrough, and corrected the referral reward amounts ($0.25 per approved signup, $1.00 on first winning entry, 10% share for 90 days).
